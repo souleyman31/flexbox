@@ -17,7 +17,7 @@ ul {
 	padding: 0;
 	text-align: center;
 }
-ul a {
+ul li a {
 	display: block;
 	text-transform: uppercase;
 	text-decoration: none;
